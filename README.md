@@ -5,10 +5,11 @@ Ini adalah proyek aplikasi perpustakaan berbasis web yang menggunakan ExpressJS 
 [![AdminLTE 2](https://img.shields.io/badge/AdminLTE-2.x-blue.svg)](https://adminlte.io/themes/AdminLTE/index2.html)
 
 ## Fitur Utama
-Manajemen Anggota: Mendaftarkan anggota perpustakaan baru, melacak riwayat peminjaman, dan mengelola informasi anggota dengan mudah.
-Manajemen Koleksi Buku: Mengelola daftar buku dengan mencatat informasi penting seperti judul, penulis, kategori, dan menggunakan fitur pencarian untuk mempermudah pengguna dalam menemukan buku yang diinginkan.
-Peminjaman dan Pengembalian Buku: Anggota perpustakaan dapat mencari buku yang tersedia, melihat informasi detail, dan melakukan permintaan peminjaman secara online. Sistem pemberitahuan otomatis akan mengingatkan anggota perpustakaan tentang tanggal pengembalian buku yang telah dipinjam.
-Pengaturan Pengguna: Pustakawan memiliki akses khusus untuk mengelola akun pengguna, termasuk pemberian hak akses dan validasi identitas.
+Manajemen Anggota: 
+1. Mendaftarkan anggota perpustakaan baru, melacak riwayat peminjaman, dan mengelola informasi anggota dengan mudah.
+2. Manajemen Koleksi Buku: Mengelola daftar buku dengan mencatat informasi penting seperti judul, penulis, kategori, dan menggunakan fitur pencarian untuk mempermudah pengguna dalam menemukan buku yang diinginkan.
+3. Peminjaman dan Pengembalian Buku: Anggota perpustakaan dapat mencari buku yang tersedia, melihat informasi detail, dan melakukan permintaan peminjaman secara online. Sistem pemberitahuan otomatis akan mengingatkan anggota perpustakaan tentang tanggal pengembalian buku yang telah dipinjam.
+4. Pengaturan Pengguna: Pustakawan memiliki akses khusus untuk mengelola akun pengguna, termasuk pemberian hak akses dan validasi identitas.
 
 ## Framework
 1. ExpressJS 4.18.2
