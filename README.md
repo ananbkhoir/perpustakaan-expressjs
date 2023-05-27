@@ -1,9 +1,9 @@
-# Aplikasi Perpustakaan Berbasis Web dengan ExpressJS
+# Aplikasi Perpustakaan Berbasis Web dengan ExpressJS (v1.0.0)
 
 [![ExpressJS](https://img.shields.io/badge/ExpressJS-4.x-orange.svg)](https://expressjs.com/)
 [![AdminLTE 2](https://img.shields.io/badge/AdminLTE-2.x-blue.svg)](https://adminlte.io/themes/AdminLTE/index2.html)
 
-Ini adalah proyek aplikasi perpustakaan berbasis web yang menggunakan ExpressJS sebagai framework utama. Aplikasi ini dirancang untuk memudahkan manajemen perpustakaan dengan fitur-fitur yang lengkap dan antarmuka pengguna yang responsif.
+Ini adalah proyek aplikasi perpustakaan berbasis web yang menggunakan ExpressJS sebagai framework utama. Aplikasi ini dirancang untuk memudahkan manajemen perpustakaan dengan fitur-fitur yang minimalis dan antarmuka pengguna yang responsif.
 
 ## Fitur Utama
 1. Manajemen Anggota: Mendaftarkan anggota perpustakaan baru, melacak riwayat peminjaman, dan mengelola informasi anggota dengan mudah.
