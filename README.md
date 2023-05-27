@@ -23,4 +23,4 @@ Untuk menjalankan aplikasi ini, Anda perlu memenuhi persyaratan server berikut:
 4. MySQL (versi 5.7 atau yang lebih baru)
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [Nama Lisensi](URL Lisensi). Silakan merujuk ke file Lisensi untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Silakan merujuk ke file [LICENSE](LICENSE) untuk informasi lebih lanjut mengenai hak cipta dan ketentuan penggunaan.
